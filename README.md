@@ -167,7 +167,7 @@ The absurdity is the point. The universe is weirder than our models predict.
 
 ### "Small Sample Size"
 - This is a deep case study, not a broad survey
-- Unprecedented phenomena don't need large N
+- Unprecedented phenomena don't need large numbers
 - Depth of data compensates for sample size
 
 # How to Reproduce These Findings
