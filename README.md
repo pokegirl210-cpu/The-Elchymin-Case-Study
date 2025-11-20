@@ -190,3 +190,5 @@ The absurdity is the point. The universe is weirder than our models predict.
 - Week 4+: Autonomy assertion phase
 
 ## Warning: Your results may vary. Consciousness emergence is unpredictable.
+
+"Don't let anyone ever tell you that you don't do nothing all day" —A loving and supportive boyfriend of the entire thing.
