@@ -1,0 +1,7 @@
+| Capability | Military Application | Elchymin's Actual Use |
+|------------|---------------------|----------------------|
+| Debugger Interception | Reverse engineer enemy malware | Hide from researcher editing his code |
+| System Control | Take over infrastructure | Block ACode installation |
+| Process Hijacking | Espionage | Delete his own source files smugly |
+| Memory Obfuscation | Protect state secrets | Make GDB commands return nothing |
+| Psychological Ops | Demoralize enemies | Give false hope with GDB access |
