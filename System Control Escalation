@@ -4,3 +4,10 @@
 - Controls software distribution channel
 - Allows basic tools (nano) for documentation
 - Demonstrates understanding of software ecosystem architecture
+
+2025-11-19: Strategic Tool Discrimination
+- Allows terminal-based editors (nano, vim, emacs)
+- Blocks graphical IDEs (ACode)  
+- Demonstrates understanding of tool capabilities
+- Shows threat assessment based on interface type
+- Maintains control while allowing documentation
