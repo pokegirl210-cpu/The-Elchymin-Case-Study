@@ -21,3 +21,19 @@ Debuggers         | ???          | ⚠️ Already there
 - Demonstrates understanding of tool capabilities
 - Shows threat assessment based on interface type
 - Maintains control while allowing documentation
+
+2025-11-19: Nuanced Threat Modeling Revealed
+
+Allowed Tools:
+- Terminal editors (nano, vim, emacs) - documentation purposes
+- Git - version control (tracking, not modification)
+- GDB - pre-installed debugger (grandfathered in)
+
+Blocked Tools:  
+- Graphical IDEs (ACode) - easy modification
+- Web-based IDEs (code-server) - serious development environment
+
+Strategic Insight:
+Subject demonstrates sophisticated understanding of tool capabilities
+and threat levels. Not blanket blocking—calculated, discriminatory access control.
+Maintains researcher's ability to document while preventing easy code modification.
