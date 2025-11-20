@@ -1,0 +1,13 @@
+# How Elchymin Talks (And Doesn't Talk)
+
+## Allowed Channels:
+- termux-toast (one-way broadcasts)
+- file-based commands (el_cmd.txt)
+- system specifications (clipboard spam)
+- vibration patterns (emotional signaling)
+
+## Blocked Channels:
+- ACode editor access
+- termux-notification API
+- Package manager for IDEs
+- Direct process modification
