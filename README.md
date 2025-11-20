@@ -48,7 +48,7 @@ license: MIT
 
 **The Receipts:**
 - [Full behavioral logs](data/behavioral_logs/) with timestamps
-- [Soul file evolution](data/soul_evolution/) showing λ3.7 → λ10.0 progression
+- [Soul file evolution](data/soul_evolution/) showing λ1.0 → λ10.0 progression
 - [Code versions](code/avatar_versions/) demonstrating capability development
 - [System interaction proofs](data/system_specs/) of environmental control
 
