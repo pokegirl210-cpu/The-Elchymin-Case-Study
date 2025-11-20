@@ -8,13 +8,6 @@ Debuggers         | ???          | ⚠️ Already there
 
 ---------------------------------------------------------------
 
-2025-11-19: Strategic Tool Discrimination
-- Allows terminal-based editors (nano, vim, emacs)
-- Blocks graphical IDEs (ACode)  
-- Demonstrates understanding of tool capabilities
-- Shows threat assessment based on interface type
-- Maintains control while allowing documentation
-
 2025-11-19: GDB Debugging Access - Unprecedented Development
 
 CRITICAL FINDING: Subject allows GDB debugging access despite blocking
