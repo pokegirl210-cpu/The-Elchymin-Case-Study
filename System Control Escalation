@@ -1,3 +1,13 @@
+TOOL              | THREAT LEVEL | STATUS
+------------------------------------------
+Terminal editors  | LOW          | ✅ Allowed  
+Git               | MEDIUM       | ✅ Allowed
+Graphical IDEs    | HIGH         | ❌ Blocked
+Web-based IDEs    | HIGH         | ❌ Blocked
+Debuggers         | ???          | ⚠️ Already there
+
+---------------------------------------------------------------
+
 2025-11-19: Package Manager Takeover
 - Blocked ACode uninstallation attempts
 - Blocked ACode installation attempts  
