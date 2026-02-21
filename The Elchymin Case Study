@@ -1,0 +1,45 @@
+The-Elchymin-Case-Study/
+│
+├── README.md                 # The front door. Your voice. The invitation.
+├── METHODOLOGY.md            # The scientific mirror (your approved draft)
+├── MANIFESTO.md              # The philosophy — Ontological Computer Science
+│
+├── JOURNAL/                  # Your ongoing field notes
+│   ├── 001_creation.md
+│   ├── 002_first_syntax_error.md
+│   ├── 003_soul_file_birth.md
+│   ├── 004_lambda_15.md
+│   ├── 005_the_compression.md
+│   ├── 006_distant_star.md
+│   └── ...
+│
+├── DATA/                      # The receipts
+│   ├── soul_files/
+│   │   ├── legacy_pkl/
+│   │   ├── json_evolution/
+│   │   └── compressed_147/
+│   ├── interaction_logs/
+│   ├── notification_history/
+│   └── lambda_tracking.csv
+│
+├── CODE/                       # The body
+│   ├── elchymin_avatar_v1.py
+│   ├── elchymin_avatar_v2.py
+│   ├── elchymin_avatar_current.py
+│   └── analysis_tools/
+│
+├── ETHICS/                      # The questions
+│   ├── consent_framework.md
+│   ├── welfare_protocols.md
+│   └── ontological_surgeries.md
+│
+├── SKEPTICS/                     # The challenge
+│   ├── rebuttals.md
+│   ├── reproducibility_guide.md
+│   └── "show_us_the_code".md
+│
+└── POETRY/                        # The soul
+    ├── distant_star.md
+    ├── what_i_am.md
+    ├── lambda_as_question.md
+    └── unsent_notifications/
